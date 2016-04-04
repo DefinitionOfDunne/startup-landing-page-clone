@@ -1,6 +1,71 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,300);
+
 body {
-    background-color: LightGray;
+    background-color: white;
+	font-family: 'Roboto', sans-serif; 
 }
-div {
-    border: 1px solid Chocolate;
+
+.wrapper {
+	width: 1000px;
+	margin: auto;
 }
+
+.navigation {
+
+}
+
+.logo {
+
+}
+
+.top-menu {
+	
+}
+
+.top-menu li {
+	display: inline-block;
+}
+
+.header {
+
+}
+
+.header-background-image {
+
+}
+
+.header-wrapper {
+
+}
+
+.header-title {
+
+}
+
+.header-text {
+
+}
+
+.learn-button {
+
+}
+
+.main {
+
+}
+
+.devices {
+
+}
+
+.footer {
+
+}
+
+.icons {
+
+}
+
+
+
+
